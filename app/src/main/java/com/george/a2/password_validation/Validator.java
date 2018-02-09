@@ -3,7 +3,7 @@ package com.george.a2.password_validation;
 /**
  * Created by GEORGE on 2018-02-07.
  */
-import java.util.regex.Pattern
+import java.util.regex.Pattern;
 
 public class Validator {
 
